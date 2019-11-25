@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.
 Changed
 Create a new branch in 2019-11-25
-Creating a new branch is quick & simple.
+Creat a new branch is quick & simple
+
